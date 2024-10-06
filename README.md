@@ -30,10 +30,6 @@ This project aims to generate a synthetic dataset of Amazon reviews specifically
 - **Pandas**: For data handling and CSV file operations.
 - **Gretel AI**: For enhancing data synthesis capabilities.
 
-## Getting Started
-
-To get started with this project, clone the repository and install the necessary dependencies:
-
 ```bash
 git clone <your-repository-link>
 cd <your-repository-directory>
