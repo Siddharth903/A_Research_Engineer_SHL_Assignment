@@ -29,8 +29,3 @@ This project aims to generate a synthetic dataset of Amazon reviews specifically
 - **Python**: Primary programming language used for scripting and data manipulation.
 - **Pandas**: For data handling and CSV file operations.
 - **Gretel AI**: For enhancing data synthesis capabilities.
-
-```bash
-git clone <your-repository-link>
-cd <your-repository-directory>
-pip install -r requirements.txt
